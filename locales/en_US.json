@@ -1,0 +1,74 @@
+{
+  "profile": {
+    "greeting": "Hello {{user_first_name}}"
+  },
+  "menu": {
+    "inquiry": "Inquiry",
+    "vehicle": "Vehicle", 
+    "parts": "Auto Parts",
+    "calculator": "Duty Calculator",
+    "offers": "Today Offers",
+    "start_over": "Start over"
+  },
+  "get_started": {
+    "welcome": "Hi {{userFirstName}}!",
+    "help": "What we can do to help you today?"
+  },
+  "duty": {
+    "model": "Please select the vehicle model of the vehicle",
+    "year": "Select year of manufacture",
+    "month": "Select the month of manufacture",
+    "audi": "Audi",
+    "engine": "Select the Engine size "
+  },
+
+  "audi": {
+    "loweight": "You will pay a total amount Ksh 256,000 for audi 2018 with an engine size of 1300 cc. Do you need some recommendations?",
+    "higheight": "You will pay a total amount Ksh 340,000 for audi 2018 with an engine size of 2560 cc. Do you need some recommendations?",
+    "lownine": "You will pay a total amount Ksh 390,000 for audi 2019 with an engine size of 1700 cc. Do you need some recommendations?",
+    "highnine": "You will pay a total amount Ksh 375,000 for audi 2019 with an engine size of 3260 cc. Do you need some recommendations?"
+  },
+
+  "toyota": {
+    "loweight": "You will pay a total amount Ksh 256,000 for Toyota 2018 with an engine size of 1450 cc. Do you need some recommendations?",
+    "higheight": "You will pay a total amount Ksh 340,000 for Toyota 2018 with an engine size of 5600 cc. Do you need some recommendations?",
+    "lownine": "You will pay a total amount Ksh 390,000 for Toyota 2019 with an engine size of 1800 cc. Do you need some recommendations?",
+    "highnine": "You will pay a total amount Ksh 375,000 for Toyota 2019 with an engine size of 3260 cc. Do you need some recommendations?"
+  },
+
+  "nissan": {
+    "loweight": "You will pay a total amount Ksh 256,000 for Toyota 2018 with an engine size of 1340 cc. Do you need some recommendations?",
+    "higheight": "You will pay a total amount Ksh 340,000 for Toyota 2018 with an engine size of 3460 cc. Do you need some recommendations?",
+    "lownine": "You will pay a total amount Ksh 390,000 for Toyota 2019 with an engine size of 1100 cc. Do you need some recommendations?",
+    "highnine": "You will pay a total amount Ksh 375,000 for Toyota 2019 with an engine size of 2860 cc. Do you need some recommendations?"
+  },
+  "general": {
+    "later": "This feature is not ready for use. Please come back later",
+    "notify": "Subscribed was Successful. We shall notify you once this feature is released. Thank you for choosing us",
+    "construction": "Image search is currently on development mode. Do you want to be notified when is released?",
+    "fast": "Dear {{userFirstName}} What can we do to help you today",
+    "final": "Thats all we had for today. We hope you enjoyed the experience. Thank you for choosing Be Forward",
+    "goodbye": "Thank you for choosing Be Forward. We hope that you enjoyed the experience"
+  },
+
+  "inquire": {
+    "vehicle": "Do you want to inquire with a Reference number or image of the vehicle from our website? ",
+    "spare": "Do you want to use Reference number or image of the Auto part?"
+  },
+  "recommendation": {
+    "one": "2014 Audi A1",
+    "two": "2017 Audi A5",
+    "three": "2016 Toyota Prado",
+    "four": "2019 Toyota Corolla",
+    "five": "2018 Nissan Cab",
+    "six": "2017 Nissan Double Cabin",
+    "seven": "2019 Mazda Sport",  
+    "shop": "Buy Now",
+    "another": "Another Offer",
+    "discount": "50% off",
+    "new": "New Arrival"
+  },
+  "chat_plugin": {
+    "prompt": "Thank you for choosing Be Forward."
+  }
+}
